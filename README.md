@@ -4,8 +4,9 @@
   - NixOs
   - Xmonad + Xmobar
   - Rust
+  - Emacs
 - 🌱 I’m currently learning ...
-  - Rust
+  - Nix
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
