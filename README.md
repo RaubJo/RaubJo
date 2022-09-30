@@ -5,6 +5,10 @@
   - Xmonad + Xmobar
   - Rust
   - Emacs
+  - Pine64 Things
+    - Pinebook Pro
+    - Pinephone Explorer Edition
+    - Pinetime Watch
 - 🌱 I’m currently learning ...
   - Nix
 - 💞️ I’m looking to collaborate on ...
