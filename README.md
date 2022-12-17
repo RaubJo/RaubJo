@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @RaubJo
 - 👀 I’m interested in ...
   - Thinkpads
-  - NixOs
-  - Xmonad + Xmobar
+  - Nix & NixOs
+  - Tiling Window Managers
+  - Keyboard Based Layouts
   - Rust
   - Emacs
   - Pine64 Things
